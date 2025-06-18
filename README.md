@@ -33,7 +33,7 @@ This project is a simple POP3 client implemented in Java. It allows users to con
 ## Example
 
 ```sh
-java POP3Client pop.example.com
+java POP3Client <a bunch of numbers>
 ```
 
 ## Notes
