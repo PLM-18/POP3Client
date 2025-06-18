@@ -25,7 +25,7 @@ This project is a simple POP3 client implemented in Java. It allows users to con
 
 2. **Run the client:**
     ```sh
-    java POP3Client <hostname> <port>
+    java POP3Client <server_address>
     ```
 
 3. **Follow the prompts** to enter your username and password.
